@@ -13,7 +13,7 @@
 
 # Before Merge
 
-  > Anything to do before merge?
+  > Anything to do before merge? Some text
 
 ---
 
